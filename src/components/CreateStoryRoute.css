@@ -1,0 +1,9 @@
+.CreateStoryRoute {
+  display: flex;
+  flex-direction: column;
+}
+
+.CreateStoryRoute button {
+  padding: 5px;
+  border-radius: 5px;
+}
